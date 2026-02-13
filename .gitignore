@@ -1,0 +1,8 @@
+artist/
+*.tar.xz
+*.xz
+artists_flat_full.csv
+artist_child_csv/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
